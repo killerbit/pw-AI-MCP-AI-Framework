@@ -16,28 +16,6 @@ Test Runner: Playwright Test Runner
 
 ---
 
-# 📂 Project Structure
-
-project
-│
-├── tests
-│   ├── login.spec.ts
-│   └── dashboard.spec.ts
-│
-├── pages
-│   └── loginPage.ts
-│
-├── mcp-server
-│   └── server.ts
-│
-├── utils
-│   └── testData.ts
-│
-├── playwright.config.ts
-├── package.json
-└── README.md
-
----
 
 # ⚙️ Installation
 
